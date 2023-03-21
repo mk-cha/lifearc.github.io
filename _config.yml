@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "BIOARCHIVE"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : 잡다한 생물지식들의 # site tagline that appears below site title in masthead
 name                     : "MK-CHA"
 description              : "Website for biomen"
 url                      : "https://mk-cha.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "MK-CHA"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am bioman"
+  bio              : "생물학에 관심있는 평범한 학생입니다"
   location         : "Korea"
   email            :
   links:
@@ -218,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
