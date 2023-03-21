@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BIOARCHIVE"
+title                    : "BIOARCHIVE       "
 title_separator          : "-"
-subtitle                 : 잡다한 생물지식들의 # site tagline that appears below site title in masthead
+subtitle                 : 잡다한 생물지식들의 보관소# site tagline that appears below site title in masthead
 name                     : "MK-CHA"
 description              : "Website for biomen"
 url                      : "https://mk-cha.github.io"
